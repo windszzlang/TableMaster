@@ -1,0 +1,91 @@
+{
+    "id": "wikitq-2124",
+    "source": {
+        "dataset": "wikitq",
+        "id": "nu-2124",
+        "file_path": "csv/200-csv/36.csv"
+    },
+    "table": [
+        [
+            "Year",
+            "Award",
+            "Film",
+            "Result"
+        ],
+        [
+            "1976",
+            "Best Actress",
+            "Le Sauvage",
+            "Nominated"
+        ],
+        [
+            "1981",
+            "Best Actress",
+            "Le Dernier m\u00e9tro",
+            "Won"
+        ],
+        [
+            "1982",
+            "Best Actress",
+            "H\u00f4tel des Am\u00e9riques",
+            "Nominated"
+        ],
+        [
+            "1988",
+            "Best Actress",
+            "Agent trouble",
+            "Nominated"
+        ],
+        [
+            "1989",
+            "Best Actress",
+            "Dr\u00f4le d'endroit pour une rencontre",
+            "Nominated"
+        ],
+        [
+            "1993",
+            "Best Actress",
+            "Indochine",
+            "Won"
+        ],
+        [
+            "1994",
+            "Best Actress",
+            "Ma saison pr\u00e9f\u00e9r\u00e9e",
+            "Nominated"
+        ],
+        [
+            "1997",
+            "Best Actress",
+            "Les Voleurs",
+            "Nominated"
+        ],
+        [
+            "1999",
+            "Best Actress",
+            "Place Vend\u00f4me",
+            "Nominated"
+        ],
+        [
+            "2006",
+            "Best Supporting Actress",
+            "Palais Royal!",
+            "Nominated"
+        ],
+        [
+            "2011",
+            "Best Actress",
+            "Potiche",
+            "Nominated"
+        ],
+        [
+            "2014",
+            "Best Actress",
+            "On My Way",
+            "Pending"
+        ]
+    ],
+    "question": "what year was agent trouble nominated",
+    "answer_type": "short",
+    "answer": "1988"
+}
