@@ -1,6 +1,6 @@
 # TableMaster
 
-Code and data repo of the paper "[TableMaster: A Recipe to Advance Table Understanding with Language Models]()".
+Code and data repo of the paper "[TableMaster: A Recipe to Advance Table Understanding with Language Models](https://arxiv.org/abs/2501.19378)".
 
 
 ## Introduction
@@ -23,4 +23,13 @@ python main.py
 ## Reference
 
 ```
+@misc{cao2025tablemasterrecipeadvancetable,
+      title={TableMaster: A Recipe to Advance Table Understanding with Language Models}, 
+      author={Lang Cao},
+      year={2025},
+      eprint={2501.19378},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2501.19378}, 
+}
 ```
